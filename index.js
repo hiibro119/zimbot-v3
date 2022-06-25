@@ -77,7 +77,7 @@ async function startZimBotInc() {
     const ZimBotInc = ZimBotIncConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['ZIM BOT INC','Safari','1.0.0'],
+        browser: ['𝐙𝐨𝐨𝐌📲 𝐇𝐃 Bot INC','Safari','1.0.0'],
         auth: state
     })
 
@@ -191,7 +191,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `BYE DONT COME BACK HERE OKAY`,
-body: `SUBSCRIBE DRIPS OFC`,
+body: `SUBSCRIBE 𝐙𝐨𝐨𝐌📲 𝐇𝐃`,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
