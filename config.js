@@ -1,15 +1,15 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮𝐙𝐨𝐨𝐌📲 𝐇𝐃 INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮cricketzoomhdchannel@gmail.com
+//▮WHATSAPP US : +94 758 663348
+//▮Hii Bro:How Are You?
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -17,8 +17,8 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
-//┃THANKS TO DIKA ARDNT
+//┃THANKS FOR CHOOSING 𝐙𝐨𝐨𝐌📲 𝐇𝐃 Bot
+//┃THANKS TO 𝐙𝐨𝐨𝐌📲 𝐇𝐃
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 const fs = require('fs')
@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['94758663348','']
+global.premium = ['94758663348','94758663348']
+global.botname = '𝐙𝐨𝐨𝐌📲 𝐇𝐃 Bot'
+global.ownername = '𝐙𝐨𝐨𝐌📲 𝐇𝐃'
+global.group1 = 'https://chat.whatsapp.com/LhChEEq13Se6WFs8UWfJtB'
+global.group2 = 'https://chat.whatsapp.com/KzKh6ytvnBGGdqUmiYnwm8'
+global.packname = '𝐙𝐨𝐨𝐌📲 𝐇𝐃 Bot'
+global.ytchannel = 'https://youtu.be/88pfJ0vyaLQ'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
