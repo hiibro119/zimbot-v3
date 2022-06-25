@@ -37,8 +37,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94758663348','']
-global.premium = ['94758663348','94758663348']
+global.owner = ['94758663348']
+global.premium = ['94758663348']
 global.botname = '𝐙𝐨𝐨𝐌📲 𝐇𝐃 Bot'
 global.ownername = '𝐙𝐨𝐨𝐌📲 𝐇𝐃'
 global.group1 = 'https://chat.whatsapp.com/LhChEEq13Se6WFs8UWfJtB'
@@ -97,8 +97,8 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')  
 global.bc = fs.readFileSync('./lib/bc.jpg')
-global.visoka = { url: 'http://68.media.tumblr.com/ba81a9e40e53b8c531c6edfd2a1e5b74/tumblr_o7wf2dz17A1sn28nno1_500.gif' }
-global.vid = { url: 'http://68.media.tumblr.com/ba81a9e40e53b8c531c6edfd2a1e5b74/tumblr_o7wf2dz17A1sn28nno1_500.gif' }
+global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
