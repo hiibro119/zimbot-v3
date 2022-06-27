@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮𝐙𝐨𝐨𝐌📲 𝐇𝐃 INC 2022 ®️ALL RIGHTS RESERVED
+//▮ 𝙷𝙴𝙻𝙻𝙾 𝙱𝚁𝙾 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -17,8 +17,8 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING 𝐙𝐨𝐨𝐌📲 𝐇𝐃 Bot
-//┃THANKS TO 𝐙𝐨𝐨𝐌📲 𝐇𝐃
+//┃THANKS FOR CHOOSING 𝙷𝙴𝙻𝙻𝙾 𝙱𝚁𝙾 Bot
+//┃THANKS TO 𝙷𝙴𝙻𝙻𝙾 𝙱𝚁𝙾
 //┃BEHOLD THE NEW
 //┃
 //┃LET LOVE LEAD
